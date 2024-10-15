@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello my name is Teva
+=======
+touch hello_world.txt
+>>>>>>> 041b942ec49a467002dedd45f4ee3754aecc00ef
